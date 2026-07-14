@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Ashesh 👋
 
-<!--
-**asheshayushmishra/asheshayushmishra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Product Manager with 10+ years building SaaS products.
 
-Here are some ideas to get you started:
+Currently building AI-native products and autonomous agent systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Projects
+
+🚀 AI Video Generation Pipeline
+
+📧 Gmail AI Cleaner
+
+🎬 Content Repurposing Agents
+
+🧠 PM Chief of Staff Agent
+
+## Skills
+
+- Product Strategy
+- AI Product Management
+- Multi-Agent Systems
+- LangGraph
+- Claude Code
+- Python
+- Prompt Engineering
+- RAG
+- Evaluation Systems
+
+## Currently Learning
+
+- LangGraph
+- Google ADK
+- AI Evaluations
+- MCP
